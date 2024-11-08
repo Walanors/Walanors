@@ -10,7 +10,7 @@ Overglow is a next-generation game development studio pioneering revolutionary i
 ---
 
 ###
-![Futuristic Dev Grid](https://raw.githubusercontent.com/Walanors/Walanors/output/dist/dev-grid.svg)
+![Futuristic Dev Grid](https://raw.githubusercontent.com/Walanors/Walanors/output/dev-grid.svg)
 
 ###
 
