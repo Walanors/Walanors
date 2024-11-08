@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://github.com/your-username/your-repo/blob/main/overglow_banner.gif" alt="Overglow Game Studio Banner" width="100%">
+    <img src="https://github.com/Walanors/Walanors/blob/main/OverglowLogo.png" alt="Overglow Game Studio Banner" width="100%">
 </div>
 
-# 🌟 OVERGLOW GAME STUDIO 🚀
+# 🌟 OVERGLOW 🚀
 
 ## Crafting Immersive Worlds | Pushing Technological Boundaries
 
@@ -27,32 +27,24 @@ Overglow is a cutting-edge game development studio dedicated to creating revolut
 
 ### 🌈 Current Projects
 
-#### 📦 Project Quantum
-- **Genre**: Sci-Fi Action Adventure
+#### 📦 Project Pokemon: Guardians
+- **Genre**: Open-World Pokémon Adventure
 - **Engine**: Unreal Engine 5
-- **Key Technologies**:
-  - Advanced AI Behavior Systems
-  - Procedural World Generation
-  - Quantum Computing Inspired Mechanics
+- **Status**: In Development
 
-#### 🌠 Project Nebula
-- **Genre**: Open World Exploration
-- **Key Features**:
-  - Dynamic Ecosystem Simulation
-  - Realistic Planetary Interactions
-  - Emergent Gameplay Mechanics
+#### 🔬 Technical Highlights
+- Pokemon Fangame
+- Full 2.5D Open World
+- Advanced Pokémon Interaction Systems
+- Cutting-Edge Graphics and Rendering
+- Old pokemon reimagined
 
----
 
-### 🤝 Collaboration & Opportunities
 
-**We're Always Looking For:**
-- Innovative Game Developers
-- Technical Artists
-- AI & Simulation Specialists
-- Narrative Designers
+### 🤝 Collaboration
 
-**Interested in Joining Overglow?**
+
+**Interested in a project?**
 📧 Contact: studio@overglowgames.com
 
 ---
