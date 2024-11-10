@@ -10,9 +10,6 @@ Overglow is a next-generation game development studio pioneering revolutionary i
 ---
 
 
-<img src="https://raw.githubusercontent.com/Walanors/Walanors/output/project-bubbles.svg" alt="Snake Dev animation" />
-
-
 ### 🛠️ Our Technology Arsenal
 
 <div align="center">
