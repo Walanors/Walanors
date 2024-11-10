@@ -53,7 +53,7 @@ Overglow is a next-generation game development studio pioneering revolutionary i
 ### 🤝 Collaboration
 
 **Interested in a project?**
-📧 Contact: [studio@overglowgames.com](mailto:studio@overglowgames.com)
+📧 Contact: [studio@overglowgames.com](mailto:contact@overglow.dev)
 
 ---
 
